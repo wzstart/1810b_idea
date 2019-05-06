@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot/boot.iml" filepath="$PROJECT_DIR$/boot/boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootdemo/bootdemo.iml" filepath="$PROJECT_DIR$/bootdemo/bootdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootdemo2/bootdemo2.iml" filepath="$PROJECT_DIR$/bootdemo2/bootdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/center/center.iml" filepath="$PROJECT_DIR$/center/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configcenter/configcenter.iml" filepath="$PROJECT_DIR$/configcenter/configcenter.iml" />
+      <module fileurl="file://E:/git_temp/portal/portal.iml" filepath="E:/git_temp/portal/portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registercenter/registercenter.iml" filepath="$PROJECT_DIR$/registercenter/registercenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/student.iml" filepath="$PROJECT_DIR$/student/student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadDemo/threadDemo.iml" filepath="$PROJECT_DIR$/threadDemo/threadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree_dubbo/tree_dubbo.iml" filepath="$PROJECT_DIR$/tree_dubbo/tree_dubbo.iml" />
+    </modules>
+  </component>
+</project>

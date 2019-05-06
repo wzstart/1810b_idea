@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    name: mydb
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://127.0.0.1:3306/test02
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: tree_dubbo
+  dubbo :
+    application:
+      name : tree_dubbo_provider
+    registry:
+      address: zookeeper://127.0.0.1:2181
+    protocol :
+      name: dubbo
+      port: 20880
+    scan: com.jk.service
+
+mybatis:
+  mapperLocations: classpath*:mybatis/mapper-*.xml
+  typeAliasesPackage: com.jk.bean
+
+server:
+  port: 8889

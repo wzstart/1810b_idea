@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://G:/study/17_project02/3_video/day08_购物车增删改查合并/上午/代码/mall_0706_sale_teacher" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/provider_location/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer_location/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_common/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_register_center/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_provider_login/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_consumer_portal/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_goods/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_zuul/pom.xml" />
+        <option value="E:/git_temp/portal/pom.xml" />
+        <option value="E:/git_temp/yj1105-mall-new/mall/ds/pom.xml" />
+        <option value="$PROJECT_DIR$/esdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/mqsend/pom.xml" />
+        <option value="$PROJECT_DIR$/mqreceive/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro_demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro_demo02/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+        <option value="$PROJECT_DIR$/center/pom.xml" />
+        <option value="$PROJECT_DIR$/registercenter/pom.xml" />
+        <option value="$PROJECT_DIR$/configcenter/pom.xml" />
+        <option value="$PROJECT_DIR$/student/pom.xml" />
+        <option value="$PROJECT_DIR$/boot/pom.xml" />
+        <option value="$PROJECT_DIR$/bootdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/bootdemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/tree_dubbo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

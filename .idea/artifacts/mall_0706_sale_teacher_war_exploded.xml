@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mall_0706_sale_teacher:war exploded">
+    <output-path>G:/study/17_project02/3_video/day08_购物车增删改查合并/上午/代码/mall_0706_sale_teacher/target/mall_0706_sale_teacher</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mall_0706_sale_teacher" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="G:/study/17_project02/3_video/day08_购物车增删改查合并/上午/代码/mall_0706_sale_teacher/target/mall_0706_sale_teacher/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mall_0706_sale_teacher/web/Web" />
+    </root>
+  </artifact>
+</component>

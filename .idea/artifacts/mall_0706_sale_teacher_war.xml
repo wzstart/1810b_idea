@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mall_0706_sale_teacher:war">
+    <output-path>G:/study/17_project02/3_video/day08_购物车增删改查合并/上午/代码/mall_0706_sale_teacher/target</output-path>
+    <root id="archive" name="mall_0706_sale_teacher.war">
+      <element id="artifact" artifact-name="mall_0706_sale_teacher:war exploded" />
+    </root>
+  </artifact>
+</component>

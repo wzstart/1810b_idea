@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot" />
+        <module name="bootdemo" />
+        <module name="bootdemo2" />
+        <module name="center" />
+        <module name="client" />
+        <module name="common" />
+        <module name="configcenter" />
+        <module name="demo" />
+        <module name="portal" />
+        <module name="registercenter" />
+        <module name="student" />
+        <module name="tree_dubbo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot" target="1.8" />
+      <module name="boot_login" target="1.8" />
+      <module name="bootdemo" target="1.8" />
+      <module name="bootdemo2" target="1.8" />
+      <module name="center" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="cloud_consumer_portal" target="1.8" />
+      <module name="cloud_goods" target="1.8" />
+      <module name="cloud_provider_login" target="1.8" />
+      <module name="cloud_register_center" target="1.8" />
+      <module name="cloud_zuul" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="configcenter" target="1.8" />
+      <module name="consumer_location" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="ds" target="1.8" />
+      <module name="dubbo_common" target="1.8" />
+      <module name="echarts" target="1.8" />
+      <module name="esdemo" target="1.8" />
+      <module name="mall_0706_sale_teacher" target="1.8" />
+      <module name="mqreceive" target="1.8" />
+      <module name="mqsend" target="1.8" />
+      <module name="portal" target="1.8" />
+      <module name="provider_location" target="1.8" />
+      <module name="registercenter" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="shiro_demo01" target="1.8" />
+      <module name="shiro_demo02" target="1.8" />
+      <module name="student" target="1.8" />
+      <module name="tree_dubbo" target="1.8" />
+      <module name="zuoye" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
